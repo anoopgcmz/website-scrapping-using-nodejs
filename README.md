@@ -1,6 +1,6 @@
 # website scrapping using nodejs
 I have scraped imdb website I hope further applications using cherio can be uploaded here
-  - cheerio library is used to scrape website. [cheerio](https://github.com/btele/cheerio)
+  - [cheerio](https://github.com/btele/cheerio) library is used to scrape website. 
   - fs is used to write scraped documents  into csv file 
  
 ### Run the code
